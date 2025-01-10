@@ -15,4 +15,6 @@ import Lenis from '@studio-freight/lenis';
 })
 export class HomeComponent {
 
+  bannerImage ='assets/images/banner-2.png'
+
 }
